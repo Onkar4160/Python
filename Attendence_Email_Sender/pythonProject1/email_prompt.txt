@@ -1,0 +1,12 @@
+Dear {parent_name},
+
+Your son {student_name}, Department: {department}, Class TE-B, Roll No. {roll_no}, has failed to maintain
+75% attendance in theory classes conducted from {start_date} to {end_date}. During this period,
+{student_name} has only {attendance}% attendance.
+
+If this issue persists, he may be detained for this semester and will be required to repeat it,
+incurring additional fees. Please ensure your son improves his attendance.
+
+Thank you,
+Yours Faithfully,
+{teacher_name}
